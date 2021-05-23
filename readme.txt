@@ -1,2 +1,2 @@
 Creating a new branch is quick and simple.
-ABC
+Git is a freee software ...
